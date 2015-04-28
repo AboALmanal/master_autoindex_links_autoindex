@@ -8,11 +8,14 @@
 <meta http-equiv="Content-Type" content="application/vnd.wap.xhtml+xml; charset=UTF-8"/>
   <title>{$title}</title>
 <meta name="description" content="{$title} free download for your mobile device">
-<meta name="keywords" content="symbian,nokia,software,apps,jar,java,games,wallpaper,download, mobile, videos,mobile, movies,bollywood,hollywood,{$title}">
+<meta name="keywords" content="سمبيان,نوكيا,برامج,تطبيقات,جار,جافا,العاب,خلفيات,تحميل, موبايل, موسيقا,فيديو, بوليوود,افلام,هوليود, اغاني, عربية, اجنبية, موسيقى, مقاطع صوت, نغمات, تحميل,{$title}">
 </head>
 
 <body>
-
+<style>
+  body*{align:right;
+  dir:rtl;}
+</style>
 <div class="header"> {$logo} </div>
 
 <!--header end-->
