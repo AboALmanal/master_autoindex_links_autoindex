@@ -13,7 +13,7 @@
 
 <body>
 <style>
-  body*{align:right;
+  body*{text-align:right;
   dir:rtl;}
 </style>
 <div class="header"> {$logo} </div>
