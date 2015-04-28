@@ -11,11 +11,7 @@
 <meta name="keywords" content="سمبيان,نوكيا,برامج,تطبيقات,جار,جافا,العاب,خلفيات,تحميل, موبايل, موسيقا,فيديو, بوليوود,افلام,هوليود, اغاني, عربية, اجنبية, موسيقى, مقاطع صوت, نغمات, تحميل,{$title}">
 </head>
 
-<body>
-<style>
-  body*{text-align:right;
-  dir:rtl;}
-</style>
+<body dir="rtl" align="right" margin="5px">
 <div class="header"> {$logo} </div>
 
 <!--header end-->
