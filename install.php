@@ -11,7 +11,7 @@
 		</style>
 	</head>
 	<body>
-		<h4>MASTER AUTOINDEX INSTALLER </h4>
+		<h4>MASTER AUTOINDEX_links INSTALLER </h4>
 <?php
 if($_POST){
 
@@ -119,6 +119,5 @@ Admin Pass: <br/><input type='text' name='admin_pass' value='12345'><br/>
 
 }
 ?>
-		<h4>www.master-land.net</h4>
 	</body>
 </html>
